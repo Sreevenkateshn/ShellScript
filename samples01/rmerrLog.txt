@@ -1,0 +1,11 @@
+rm: newerrLog.txt: No such file or directory
+total 56
+drwxr-xr-x  9 Anjan  wheel  306 Mar 30 16:15 .
+drwxr-xr-x  3 Anjan  wheel  102 Mar 30 14:34 ..
+-rwxr-xr-x  1 Anjan  wheel   52 Mar 30 15:50 backupShell.sh
+-rwxr-xr-x  1 Anjan  wheel   47 Mar 30 15:41 helloworld.sh
+-rw-r--r--  1 Anjan  wheel  236 Mar 30 15:51 myhome_directory.tar.gz
+-rw-r--r--  1 Anjan  wheel  117 Mar 30 16:15 myhome_directory_.tar.gz
+-rwxr-xr-x  1 Anjan  wheel   73 Mar 30 16:14 newBackp.sh
+-rw-r--r--  1 Anjan  wheel   45 Mar 30 15:03 rmerrLog.txt
+-rwxr-xr-x  1 Anjan  wheel   68 Mar 30 15:56 varibles.sh

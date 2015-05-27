@@ -1,0 +1,14 @@
+#!/bin/bash 
+function quit {
+exit;
+}
+echo $0;
+echo $1;
+function hello {
+echo Hello!;
+echo $1;
+echo $0;
+}
+hello f**off;
+quit;
+echo foo; 

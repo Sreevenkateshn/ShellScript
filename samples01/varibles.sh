@@ -1,0 +1,3 @@
+#!/bin/bash
+STRING="THIS IS TO GET VARIABLES TESTED";
+echo $STRING;

@@ -1,0 +1,11 @@
+#!/bin/bash
+opts="Hey Hi f**off";
+select o in $opts; do
+	if [ $o = "Hey" ]; then
+		echo Heyyyyy!!!1
+	elif [ $o = "Hi" ]; then 
+		echo Hiiiiii
+	else
+		exit
+	fi
+done

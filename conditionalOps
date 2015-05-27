@@ -1,0 +1,8 @@
+#!/bin/bash
+file=$1
+if [ -e $file ]
+then
+	echo "file $file exists"
+else
+	echo "file $file doesnot exits"
+fi

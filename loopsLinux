@@ -1,0 +1,22 @@
+#!/bin/bash
+for i in $( ls ); do 
+echo item: $i
+done
+
+echo second for
+
+for i in `seq 5 40`;
+do echo sequencevalue: $i
+done
+
+i=0
+while [ $i -lt 200 ]; do
+echo the counter for whileloop is $i
+let i=i+1
+done
+
+j=500
+until [ $j -lt 10 ]; do
+echo untill loop $j
+let j-=1
+done
